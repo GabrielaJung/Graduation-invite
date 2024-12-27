@@ -10,7 +10,8 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { AddToCalendarButton } from 'add-to-calendar-button-react';
 
 import './App.css';
-import Background from './assets/bg.jpg';
+// import Background from './assets/bg.jpg';
+import Background from './assets/background.jpg';
 import { Header, Main } from './components/styledComponents';
 
 function App() {
