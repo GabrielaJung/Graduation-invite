@@ -1,3 +1,4 @@
+import { SpeedInsights } from "@vercel/speed-insights/next"
 import {
   faCalendarCheck,
   faCar,
@@ -106,6 +107,7 @@ function App() {
             timeZone='America/Los_Angeles'
           ></AddToCalendarButton>
         </section>
+        <SpeedInsights />
       </Main>
     </>
   );
