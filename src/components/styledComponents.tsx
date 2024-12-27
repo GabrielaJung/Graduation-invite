@@ -39,7 +39,6 @@ export const Main = styled.main`
 
     &.principal {
       background: var(--bg-shade);
-      margin-top: 1rem;
       padding: 0.5rem;
       border-radius: 5px;
       border: 1px solid var(--primary);
