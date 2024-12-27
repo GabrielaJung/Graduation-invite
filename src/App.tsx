@@ -20,7 +20,7 @@ function App() {
         <h1>Formatura 2025</h1>
       </Header>
       <Main>
-        <section>
+        <section className='principal'>
           <div className='divisionHat'>
             <FontAwesomeIcon icon={faGraduationCap} />
           </div>
